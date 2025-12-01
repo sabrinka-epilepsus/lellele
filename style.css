@@ -19,3 +19,5 @@ blockquote.q {
 	border-left: 4px solid #8B0000;
 	font-style: italic;
 }
+
+p.quote { font-family: "Pudelinka", cursive; }
